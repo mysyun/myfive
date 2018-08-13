@@ -12,7 +12,7 @@ import {
     Button
 } from 'antd-mobile'
 
-import Logo from '../../components/logo/logo'
+// import Logo from '
 
 export default class Login extends Component {
     state = {
